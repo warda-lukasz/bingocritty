@@ -3,13 +3,13 @@ import = [ "~/.config/alacritty/themes/catppuccin_mocha.toml" ]
 live_config_reload = true
 
 [window]
-dimensions = { columns = 100, lines = 35 }
+dimensions = { columns = 150, lines = 45 }
 padding = { x = 15, y = 15}
 opacity = 0.9
 decorations = "Full"
 
 [font]
-size = 14.0
+size = 15.0
 normal = { family = "JetbrainsMono Nerd Font", style = "Regular" }
 builtin_box_drawing = true
 
