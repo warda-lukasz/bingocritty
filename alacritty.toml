@@ -10,7 +10,7 @@ decorations = "Full"
 
 [font]
 size = 15.0
-normal = { family = "FiraMono Nerd Font", style = "Regular" }
+normal = { family = "JetbrainsMono Nerd Font", style = "Regular" }
 builtin_box_drawing = true
 
 [colors]
